@@ -13,3 +13,9 @@ All financial inputs are planning assumptions. Product brands are third-party be
 - `assets/`: optimized WebP previews and local fonts
 
 Published through GitHub Pages from the main branch root.
+
+
+## Goodwhere product family
+The current pitch includes six proposed product forms: Dot, Pocket, Trail, One, Max and Drive. `family.js` drives the accessible use-case selector; `family-products.json` is the matching data export. `goodwhere-family-brief.md` contains the buyer, use, power and commercial brief. New generated visuals live in `assets/family/`; the earlier One concepts remain in `assets/device/`. Product dimensions and capabilities are proposals, not validated specifications.
+
+Dot is a proposed Bluetooth finder. The remaining range is cellular, with different power sources and requirements. The economics model is for a subscription-eligible cohort, not all family units.

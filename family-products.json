@@ -1,0 +1,140 @@
+[
+  {
+    "id": "dot",
+    "name": "Dot",
+    "label": "THE TINY FINDER",
+    "image": "assets/family/family-00.webp",
+    "size": "32 \u00d7 28 \u00d7 8 mm",
+    "category": "Bluetooth finder",
+    "buyer": "Everyday households, students and forgetful commuters",
+    "use": "Keys, a backpack zipper or an everyday carry pouch",
+    "job": "Ring a nearby item and help locate it through the supported finding experience.",
+    "power": "Serviceable coin-cell concept. Low-power finding rather than frequent GPS reporting.",
+    "tradeoff": "No independent cellular updates or continuous route history. Any crowd-finding network requires approval and may use its own native app.",
+    "plan": "Purchase-led; no assumed $200 annual subscription",
+    "phase": "Optional entry product",
+    "features": [
+      "Nearby ring",
+      "Last-seen context",
+      "Simple attachment"
+    ],
+    "bundle": "The daily set",
+    "hook": "The little things. Found.",
+    "button": "Keys & everyday items"
+  },
+  {
+    "id": "pocket",
+    "name": "Pocket",
+    "label": "THE COMPACT CELLULAR ONE",
+    "image": "assets/family/family-01.webp",
+    "size": "54 \u00d7 34 \u00d7 14 mm",
+    "category": "Rechargeable cellular GPS",
+    "buyer": "Commuters, creators and frequent ground travellers",
+    "use": "A work bag, camera bag or valuable carry gear",
+    "job": "Get independent location updates for a bag that matters, plus movement and boundary alerts.",
+    "power": "Compact rechargeable battery. Design for an easy, regular charging habit and selectable update modes.",
+    "tradeoff": "Smaller battery volume means a tighter runtime budget. Air-travel use would need separate airline, battery and radio compliance work.",
+    "plan": "Connect plan; price and reporting allowance to validate",
+    "phase": "Next compact platform",
+    "features": [
+      "Location check",
+      "Movement alerts",
+      "Bag-safe zones"
+    ],
+    "bundle": "The daily set",
+    "hook": "Carry on. Check in.",
+    "button": "Bag & commute"
+  },
+  {
+    "id": "trail",
+    "name": "Trail",
+    "label": "THE COLLAR-FIT ONE",
+    "image": "assets/family/family-02.webp",
+    "size": "52 \u00d7 32 \u00d7 17 mm",
+    "category": "Dedicated pet cellular GPS",
+    "buyer": "Dog owners who walk, travel and spend time outdoors",
+    "use": "A secure, low-profile fit on a dog's collar",
+    "job": "Support escape alerts, a location session when needed and a record of walks.",
+    "power": "Rechargeable with home power-saving modes as a design goal. Frequent location sessions shorten runtime.",
+    "tradeoff": "Fit, weight, collar retention, bite resistance and ingress require dedicated testing. Suitable dog sizes are not yet established.",
+    "plan": "Pet-focused Connect plan; validate willingness to pay",
+    "phase": "Dedicated pet program",
+    "features": [
+      "Escape alerts",
+      "Find session",
+      "Walk history"
+    ],
+    "bundle": "The weekend set",
+    "hook": "For the one who follows you everywhere.",
+    "button": "Dog & outdoors"
+  },
+  {
+    "id": "one",
+    "name": "One",
+    "label": "THE EVERYDAY ASSET ONE",
+    "image": "assets/device/device-00.webp",
+    "size": "76 \u00d7 46 \u00d7 19 mm",
+    "category": "Portable cellular GPS",
+    "buyer": "Cherished-car, camper and leisure-gear owners",
+    "use": "An owned vehicle, camper or valuable equipment",
+    "job": "Keep an eye on a valued asset through location, movement alerts, boundaries and route history.",
+    "power": "A balanced rechargeable format. More battery volume than Pocket; charging cradle and removable mounts proposed.",
+    "tradeoff": "Mounting position affects radio performance. It still needs coverage, battery maintenance and validated environmental limits.",
+    "plan": "Connect plan; existing $200 annual case is a hypothesis",
+    "phase": "First launch candidate",
+    "features": [
+      "Movement alerts",
+      "Safe zones",
+      "Route history"
+    ],
+    "bundle": "The weekend set",
+    "hook": "For everything you'd go back for.",
+    "button": "Car, camper & gear"
+  },
+  {
+    "id": "max",
+    "name": "Max",
+    "label": "THE LONGER-STAY ONE",
+    "image": "assets/family/family-03.webp",
+    "size": "108 \u00d7 68 \u00d7 30 mm",
+    "category": "Large-battery cellular GPS",
+    "buyer": "Trailer owners, tradespeople and equipment operators",
+    "use": "A stored camper, work trailer or equipment locker",
+    "job": "Check on an asset between visits and get movement alerts without a pocket-sized battery constraint.",
+    "power": "Largest proposed battery envelope. Storage and active modes balance check-in frequency against runtime.",
+    "tradeoff": "Bigger and heavier. No months-long live-tracking promise; antenna clearance, mount retention and exposure testing remain essential.",
+    "plan": "Asset Connect plan; cadence-sensitive economics",
+    "phase": "First launch candidate",
+    "features": [
+      "Storage check-ins",
+      "Movement alerts",
+      "Shared asset access"
+    ],
+    "bundle": "The working set",
+    "hook": "Big plans. Longer stays.",
+    "button": "Trailer & stored equipment"
+  },
+  {
+    "id": "drive",
+    "name": "Drive",
+    "label": "THE PLUG-IN ONE",
+    "image": "assets/family/family-04.webp",
+    "size": "48 \u00d7 42 \u00d7 25 mm + connector",
+    "category": "Vehicle-powered cellular GPS",
+    "buyer": "Daily drivers, family-car owners and owner-operated couriers",
+    "use": "A compatible vehicle with an accessible OBD-II port",
+    "job": "Maintain a trip record and vehicle visibility with power from the vehicle.",
+    "power": "Vehicle supply rather than a routine charging chore. Parked-current draw and low-voltage protection must be engineered.",
+    "tradeoff": "Vehicle compatibility and port clearance vary. Unplugging or losing vehicle power can stop reporting; backup behavior is not yet specified.",
+    "plan": "Drive Connect plan; per active vehicle",
+    "phase": "Partner-led extension",
+    "features": [
+      "Trip history",
+      "Arrival alerts",
+      "Device power status"
+    ],
+    "bundle": "The working set",
+    "hook": "Plug in. Get on with it.",
+    "button": "Daily vehicle & trips"
+  }
+]
